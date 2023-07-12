@@ -30,7 +30,7 @@ module.exports = {
         "300%": "300%",
       },
       animation: {
-        gradient: "animatedgradient 6s ease infinite alternate",
+        gradient: "animatedgradient 3s ease infinite alternate",
       },
     },
   },

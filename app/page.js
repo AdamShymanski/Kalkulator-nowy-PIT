@@ -58,9 +58,9 @@ export default function Home() {
             alt="img"
           />
         </div>
-        <div className="w-full">
+        {/* <div className="w-full">
           <Image src="/hero.png" width={1261} height={432} alt="img" />
-        </div>
+        </div> */}
       </div>
 
       <text className="text-gray-400 text-base font-light mt-6 text-center w-11/12">
